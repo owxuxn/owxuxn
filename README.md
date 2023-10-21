@@ -3,9 +3,6 @@
   ![header](https://capsule-render.vercel.app/api?type=Waving&color=FFB3BA&height=150&section=header&text=owxuxn&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 </div>
 
-<img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-
-
 <a href="https://www.instagram.com/owxuxn_">
   <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
 </a>
