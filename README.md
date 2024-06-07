@@ -1,7 +1,7 @@
 <!--프로필 메인-->
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=F97794&623AA2&height=150&section=header&fontSize=30&animation=twinkling&text=고등학생%20개발자%20owxuxn%20입니다)
+![header](https://capsule-render.vercel.app/api?type=waving&color=C3E2DD&623AA2&height=150&section=header&fontSize=30&animation=twinkling&text=고등학생%20개발자%20owxuxn%20입니다)
 
 
 
