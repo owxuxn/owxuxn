@@ -1,4 +1,13 @@
-## Hi there 👋
+<!--프로필 메인-->
+
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=F97794&623AA2&height=150&section=header&fontSize=30&animation=twinkling&text=고등학생%20개발자%20owxuxn%20입니다)
+
+
+
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=owxuxn)](https://solved.ac/owxuxn)
 
 <!--
 **owxuxn/owxuxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
