@@ -22,7 +22,7 @@ https://hanbomgo.kr - 한봄고등학교 학생포털
 -->
 ## 🛠️ **Skills**
 <div style="display:flex; flex-direction:row;">
-    <h3>Language</h3>
+    ###Language
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> 
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> 
@@ -33,6 +33,7 @@ https://hanbomgo.kr - 한봄고등학교 학생포털
     <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
     <br>
+    ### OS
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
     <img src="https://img.shields.io/badge/Linux-FF8B00?style=for-the-badge&logo=Linux&logoColor=black">
 </div><br>
