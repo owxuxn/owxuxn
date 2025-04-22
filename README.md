@@ -1,7 +1,7 @@
 <!--프로필 메인-->
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&f593c5&height=150&section=header&fontSize=30&animation=twinkling&text=owxuxn%20👋)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&fontSize=30&animation=twinkling&text=owxuxn%20👋)
 
 
 
