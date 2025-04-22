@@ -32,6 +32,7 @@ https://hanbomgo.kr - 한봄고등학교 학생포털
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+    <img src="https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=Linux&logoColor=black">
 </div><br>
 </div>
 
