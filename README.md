@@ -8,7 +8,6 @@
 안녕하세요, 저는 고등학생 프론트엔드 개발자를 희망하는 **강지훈**입니다.
 
 Hi, I’m **Ji-Hun Kang**, a high schooler with a passion for front-end development.
-<br>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhsako)](https://solved.ac/jhsako)
