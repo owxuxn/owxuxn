@@ -9,8 +9,8 @@
 
 Hi, I’m **Ji-Hun Kang**, a high schooler with a passion for front-end development.
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhsako)](https://solved.ac/jhsako)
+<!-- [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhsako)](https://solved.ac/jhsako) -->
 
 <!-- ## 💻 Projects
 
