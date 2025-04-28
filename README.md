@@ -2,7 +2,7 @@
 <div align="center">
 
  <!-- 헤더 배너 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20owxuxn%20👋&animation=twinkling&fontSize=30&fontAlignY=30&fontAlign=50&height=150)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20owxuxn%20👋&animation=twinkling&fontSize=30&fontAlignY=35&fontAlign=50&height=150)
 
 
 
