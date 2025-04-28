@@ -8,7 +8,9 @@
 
 <!-- 인삿말 -->
 <h1 align="center">👋 Hi there</h1>
+
 ---
+
 <!-- 프로필 소개 -->
 ## 📄 강지훈의 GitHub 프로필 | Ji-Hun Kang's GitHub Profile
 
