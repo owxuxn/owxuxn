@@ -1,9 +1,9 @@
 <!--프로필 메인-->
-<!-- <div align="center"> -->
+<div align="center">
 
  <!-- 헤더 배너 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20owxuxn%20👋&animation=twinkling&fontSize=30&fontAlignY=35&fontAlign=50&height=150&)
-
+</div>
 
 
  
@@ -50,7 +50,9 @@ https://hanbomgo.kr - 한봄고등학교 학생포털
   <br/>
 </p><!-- </div> -->
 
-## 📞 Contact Me
+---
+
+### 📞 Contact Me
 
 <p>
   <a href="https://skillicons.dev">
