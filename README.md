@@ -8,6 +8,7 @@
 
 <!-- 인삿말 -->
 <h1 align="center">👋 Hi there</h1>
+<p align="center">만나서 반가워요!</p>
 
 ---
 
