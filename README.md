@@ -2,20 +2,21 @@
 <!-- <div align="center"> -->
 
  <!-- 헤더 배너 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20owxuxn%20👋&animation=twinkling&fontSize=30&fontAlignY=35&fontAlign=50&height=150)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20owxuxn%20👋&animation=twinkling&fontSize=30&fontAlignY=35&fontAlign=50&height=150&)
 
 
 
+ 
 
-## 👋 Hi there 
+<h1 align="center">👋 Hi there</h1>
+<h2 align="center">강지훈의 GitHub 프로필 | Ji-Hun Kang's GitHub Profile</h2>
 
 
+<p align="center"> 안녕하세요, 저는 고등학생 프론트엔드 개발자를 희망하는 **강지훈**입니다.</p>
 
+<p align="center">Hi, I’m **Ji-Hun Kang**, a high schooler with a passion for front-end development. </p>
 
-안녕하세요, 저는 고등학생 프론트엔드 개발자를 희망하는 **강지훈**입니다.
-
-Hi, I’m **Ji-Hun Kang**, a high schooler with a passion for front-end development.
-
+---
 <!-- [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhsako)](https://solved.ac/jhsako) -->
 
