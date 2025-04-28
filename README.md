@@ -1,9 +1,16 @@
 <!--프로필 메인-->
 <div align="center">
- 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&fontSize=30&animation=twinkling&text=owxuxn%20👋)
+
+ <!-- 헤더 배너 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20owxuxn%20👋&animation=twinkling&fontSize=30&fontAlignY=30&fontAlign=50&height=150)
+
+
+
 
 ## 👋 Hi there 
+
+
+
 
 안녕하세요, 저는 고등학생 프론트엔드 개발자를 희망하는 **강지훈**입니다.
 
