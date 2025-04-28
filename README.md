@@ -7,7 +7,7 @@
 
 
  
-
+<!-- 자기소개 -->
 <h1 align="center">👋 Hi there</h1>
 <h2 align="center">강지훈의 GitHub 프로필 | Ji-Hun Kang's GitHub Profile</h2>
 
@@ -19,10 +19,8 @@
 <!-- [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhsako)](https://solved.ac/jhsako) -->
 
-<!-- ## 💻 Projects
 
-https://hanbomgo.kr - 한봄고등학교 학생포털
--->
+<!-- 기술 스킬 -->
 ### 🛠 기술 스택 | Tech Stack
 
 ##### 💻 프론트엔드 | Frontend
@@ -47,10 +45,10 @@ https://hanbomgo.kr - 한봄고등학교 학생포털
     <img src="https://skillicons.dev/icons?i=vscode,ps,ai"/>
   </a>
   <br/>
-</p><!-- </div> -->
+</p>
 
 ---
-
+<!-- 연락 수단 -->
 ### 📞 Contact Me
 
 <p>
@@ -60,13 +58,7 @@ https://hanbomgo.kr - 한봄고등학교 학생포털
   </a>
   <br/>
 </p>
-<!-- <p>
-  <a href="https://skillicons.dev">
-   <a href="mailto:kang0421591@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/>
-  </a>
-  <br/>
-</p> -->
-   
+
 <!--
 **owxuxn/owxuxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
