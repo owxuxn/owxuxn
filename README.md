@@ -53,7 +53,8 @@ https://hanbomgo.kr - 한봄고등학교 학생포털
 
 <p>
   <a href="https://skillicons.dev">
-   <a href="https://www.instagram.com/owxuxn_/"> <img src="https://skillicons.dev/icons?i=instagram"/><a href="mailto:kang0421591@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/>
+   <a href="https://www.instagram.com/owxuxn_/"> <img src="https://skillicons.dev/icons?i=instagram"/>
+   <a href="mailto:kang0421591@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/>
   </a>
   <br/>
 </p>
