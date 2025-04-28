@@ -9,10 +9,6 @@
 <!-- 인삿말 -->
 <h1 align="center">👋 Hi there</h1>
 
-<p align="center">
-I'm Ji-Hun Kang, a high school developer on a steady journey of growth.
-</p>
-
 ---
 
 <!-- 프로필 소개 -->
