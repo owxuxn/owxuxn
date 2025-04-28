@@ -34,7 +34,7 @@
 ##### ⚙️ 데이터베이스 | Database
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,oracle"/>
+    <img src="https://skillicons.dev/icons?i=mysql"/>
   </a>
   <br/>
 </p>
