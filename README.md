@@ -49,7 +49,7 @@ Hi, I’m <b>Ji-Hun Kang</b>, a high school developer on a steady journey of gro
   <a href="https://www.instagram.com/owxuxn_/">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
   </a>
-  <a href="mailto:kang0421591@gmail.com?subject=Hello Ji-Hun!">
+  <a href="mailto:kang0421591@gmail.com?subject=Hello, Ji-Hun!">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
   </a>
 </p>
