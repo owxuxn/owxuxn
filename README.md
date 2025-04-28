@@ -51,9 +51,19 @@ https://hanbomgo.kr - 한봄고등학교 학생포털
 
 ## 📞 Contact Me
 
-<a href="https://www.instagram.com/owxuxn_/"> <img src="https://img.shields.io/badge/owxuxn_-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> </a>
-<a href="mailto:kang0421591@gmail.com"> <img src="https://img.shields.io/badge/kang0421591@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
-</div>
+<p>
+  <a href="https://skillicons.dev">
+   <a href="https://www.instagram.com/owxuxn_/"> <img src="https://skillicons.dev/icons?i=instagram"/><a href="mailto:kang0421591@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+  <br/>
+</p>
+<!-- <p>
+  <a href="https://skillicons.dev">
+   <a href="mailto:kang0421591@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+  <br/>
+</p> -->
+   
 <!--
 **owxuxn/owxuxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
