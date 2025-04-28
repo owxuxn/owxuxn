@@ -1,63 +1,66 @@
 <!--프로필 메인-->
 <div align="center">
 
- <!-- 헤더 배너 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20Welcome!%20👋&animation=twinkling&fontSize=30&fontAlignY=35&fontAlign=50&height=150&)
+<!-- 헤더 배너 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!%20👋&animation=twinkling&fontSize=30&fontAlignY=35&fontAlign=50&height=150&" alt="header"/>
+
 </div>
 
-
- 
-<!-- 자기소개 -->
+<!-- 인삿말 -->
 <h1 align="center">👋 Hi there</h1>
-<h2 align="center">강지훈의 GitHub 프로필 | Ji-Hun Kang's GitHub Profile</h2>
 
-<p align="center"> 안녕하세요, 저는 고등학생 프론트엔드 개발자를 희망하는 **강지훈**입니다.</p>
-
-<p align="center">Hi, I’m **Ji-Hun Kang**, a high schooler with a passion for front-end development. </p>
-
----
-<!-- [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhsako)](https://solved.ac/jhsako) -->
-
-
-<!-- 기술 스킬 -->
-### 🛠 기술 스택 | Tech Stack
-
-##### 💻 프론트엔드 | Frontend
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript"/>
-  </a>
-  <br/>
-</p>
-
-##### ⚙️ 데이터베이스 | Database
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql"/>
-  </a>
-  <br/>
-</p>
-
-##### 🎨 디자인 및 툴 | Design & Tools
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,ps,ai"/>
-  </a>
-  <br/>
+<p align="center">
+I'm Ji-Hun Kang, a high school developer on a steady journey of growth.
 </p>
 
 ---
+
+<!-- 프로필 소개 -->
+## 📄 강지훈의 GitHub 프로필 | Ji-Hun Kang's GitHub Profile
+
+<p align="center">
+안녕하세요, 저는 천천히 성장해 가는 고등학생 개발자 <b>강지훈</b>입니다. <br/>
+Hi, I’m <b>Ji-Hun Kang</b>, a high school developer on a steady journey of growth.
+</p>
+
+---
+
+<!-- 기술 스택 -->
+## 🛠️ 기술 스택 | Tech Stack
+
+### 💻 프론트엔드 | Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Frontend Stack"/>
+</p>
+
+### 🗄️ 데이터베이스 | Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="Database Stack"/>
+</p>
+
+### 🎨 디자인 및 툴 | Design & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,ps,ai" alt="Design Tools Stack"/>
+</p>
+
+---
+
 <!-- 연락 수단 -->
-### 📞 Contact Me
+## 📞 Contact Me
 
-<p>
-  <a href="https://skillicons.dev">
-   <a href="https://www.instagram.com/owxuxn_/"> <img src="https://skillicons.dev/icons?i=instagram"/>
-   <a href="mailto:kang0421591@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/>
+<p align="center">
+  <a href="https://www.instagram.com/owxuxn_/">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
   </a>
-  <br/>
+  <a href="mailto:kang0421591@gmail.com?subject=Hello Ji-Hun!">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  </a>
 </p>
+
+<p align="center">
+Feel free to reach out to me!
+</p>
+
 
 <!--
 **owxuxn/owxuxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
