@@ -27,7 +27,7 @@ Hi, I’m <b>Ji-Hun Kang</b>, a high school developer on a steady journey of gro
 
 ### 💻 프론트엔드 | Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Frontend Stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" alt="Frontend Stack"/>
 </p>
 
 ### 🗄️ 데이터베이스 | Database
