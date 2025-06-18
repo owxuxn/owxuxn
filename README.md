@@ -32,7 +32,7 @@ Hi, I’m <b>Ji-Hun Kang</b>, a high school developer on a steady journey of gro
 
 ### 🗄️ 데이터베이스 | Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="Database Stack"/>
+  <img src="https://skillicons.dev/icons?i=mysql,oracle" alt="Database Stack"/>
 </p>
 
 ### 🎨 디자인 및 툴 | Design & Tools
