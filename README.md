@@ -42,7 +42,7 @@ Hi, I’m <b>Ji-Hun Kang</b>, a high school developer on a steady journey of gro
 
 ---
 
-<!-- 연락 수단 -->
+<!-- <!-- 연락 수단 
 ## 📞 Contact Me
 
 <p align="center">
@@ -57,7 +57,7 @@ Hi, I’m <b>Ji-Hun Kang</b>, a high school developer on a steady journey of gro
 <p align="center">
 Feel free to reach out to me!
 </p>
-
+-->
 
 <!--
 **owxuxn/owxuxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
