@@ -16,7 +16,7 @@
 ## 📄 강지훈의 GitHub 프로필 | Ji-Hun Kang's GitHub Profile
 
 <p align="center">
-안녕하세요, 저는 천천히 성장해 가는 고등학생 개발자 <b>강지훈</b>입니다. <br/>
+안녕하세요, 저는 천천히 성장해 가는 대학생 <b>강지훈</b>입니다. <br/>
 Hi, I’m <b>Ji-Hun Kang</b>, a high school developer on a steady journey of growth.
 </p>
 
